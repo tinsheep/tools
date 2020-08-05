@@ -28,7 +28,7 @@
     {
       "entityId": "Hub",
       "name": "Hub",
-      "contentUrl": "https://brandhome20200717131556.azurewebsites.net/index",
+      "contentUrl": "https://brandhome20200717131556.azurewebsites.net",
       "scopes": [ "personal" ]
     },
     {
