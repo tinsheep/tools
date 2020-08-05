@@ -28,17 +28,17 @@
     {
       "entityId": "Hub",
       "name": "Hub",
-      "contentUrl": "{url}",
+      "contentUrl": "https://brandhome20200717131556.azurewebsites.net/",
       "scopes": [ "personal" ]
     },
     {
       "entityId": "Learning",
       "name": "Learning",
-      "contentUrl": "{url}",
+      "contentUrl": "https://brandhome20200717131556.azurewebsites.net/learning",
       "scopes": [ "personal" ]
     }
   ],
   "permissions": ["identity", "messageTeamMembers"],
-  "validDomains": [""]
+  "validDomains": [ "brandhome20200717131556.azurewebsites.net" ]
   
 }
