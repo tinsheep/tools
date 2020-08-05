@@ -9,7 +9,7 @@
     "websiteUrl": "https://www.microsoft.com",
     "privacyUrl": "https://www.microsoft.com/privacy",
     "termsOfUseUrl": "https://www.microsoft.com/termsofuse",
-    "mpnId": "{your mpnID}"
+    "mpnId": "0000000000"
   },
   "name": {
     "short": "Sample Hub",
